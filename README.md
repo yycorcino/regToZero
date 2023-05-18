@@ -1,10 +1,10 @@
 # regToZero
 
-regToZero is a Python solution utilizing Selenium that sets registers 0 - 13 to 0 without manual inputs. Additionally, auto sets perfect layout size to byte and set memory display to the right stack.
+regToZero is a Python solution utilizing Selenium that sets registers[0 - 13] to 0 without manual inputs. Additionally, auto align layout size to byte, and set memory display to the right stack.
 
 ## Usage
 
-Opens https://cpulator.01xz.net/?sys=arm in Chrome and automatically setup website. With additional window popup, commands:
+Opens https://cpulator.01xz.net/?sys=arm in Chrome and automatically setup website. With small window popup, commands:
 
 Commands  | Description
 ------------- | -------------
@@ -34,7 +34,3 @@ pip install qdarktheme
 ## License
 
 Distributed under the MIT License. See LICENSE for more information.
-
-## Contact 
-
-Project Link: https://github.com/yycorcino/regToZero.git
