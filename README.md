@@ -1,6 +1,6 @@
 # regToZero
 
-regToZero is a Python Solution utilizing Selenium framework tools to interacts on top of the website DOM. regToZero feature located on mini window are clear registers[0 - 13].Additionally, sets webpage layout to auto align layout size to byte, and set memory display to the right stack.
+regToZero is a Python Solution utilizing Selenium framework tools to interact with the webpage DOM. [regToZero features](./usage) located on mini window are clear registers[0 - 13] and clear memory. Additionally, sets webpage layout to auto align layout size to byte, and set memory display to the right stack.
 
 ## Installation
 
